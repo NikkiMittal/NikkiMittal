@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikkiMittal.
-- 👀 I’m interested in data analysis, data visualization and deriving actionable insights from it.
+- 👀 I’m interested in data analysis, visualization and deriving actionable insights from it.
 
 
 
